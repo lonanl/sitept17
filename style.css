@@ -1,0 +1,27 @@
+* {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+	font-size: 24px;
+	text-indent: 20px;
+}
+
+h1, h2 {
+	text-indent: 0;
+	text-align: center;
+}
+
+.myelem {
+	background-color: #f6b1ad;
+	color: #451714;
+	border: brown 4px solid;
+	border-radius: 1em;
+}
+
+.wwerwe {
+}
+
+.dskdkld {
+	margin-top: 40px;
+}
